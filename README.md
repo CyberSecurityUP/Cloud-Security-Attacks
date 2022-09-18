@@ -226,7 +226,7 @@
 
 - https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/AWS.md
 
-= https://github.com/RhinoSecurityLabs/cloudgoat
+- https://github.com/RhinoSecurityLabs/cloudgoat
 
 ## Azure Security Tools
 
@@ -234,7 +234,7 @@
 
 - https://microsoft.github.io/Azure-Threat-Research-Matrix/
 
-= https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
+- https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
 
 - https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/Azure.md
 
