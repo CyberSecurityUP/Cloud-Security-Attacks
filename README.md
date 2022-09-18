@@ -212,37 +212,37 @@
 
 ## AWS Security Tools
 
-### https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
-### https://github.com/blackbotsecurity/AWS-Attack
+- https://github.com/blackbotsecurity/AWS-Attack
 
-### https://github.com/awslabs/aws-cloudsaga
+- https://github.com/awslabs/aws-cloudsaga
 
-### https://github.com/awslabs/aws-support-tools
+- https://github.com/awslabs/aws-support-tools
 
-### https://github.com/0xVariable/AWS-Security-Tools
+- https://github.com/0xVariable/AWS-Security-Tools
 
-### https://cybersecurityup.github.io/awstrm/index.html
+- https://cybersecurityup.github.io/awstrm/index.html
 
-### https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/AWS.md
+- https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/AWS.md
 
-### https://github.com/RhinoSecurityLabs/cloudgoat
+= https://github.com/RhinoSecurityLabs/cloudgoat
 
 ## Azure Security Tools
 
-### https://github.com/NetSPI/MicroBurst/blob/master/Misc/Invoke-EnumerateAzureBlobs.ps1
+- https://github.com/NetSPI/MicroBurst/blob/master/Misc/Invoke-EnumerateAzureBlobs.ps1
 
-### https://microsoft.github.io/Azure-Threat-Research-Matrix/
+- https://microsoft.github.io/Azure-Threat-Research-Matrix/
 
-### https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
+= https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
 
-### https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/Azure.md
+- https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/Azure.md
 
-### https://github.com/Kyuu-Ji/Awesome-Azure-Pentest/blob/main/README.md
+- https://github.com/Kyuu-Ji/Awesome-Azure-Pentest/blob/main/README.md
 
-### https://github.com/ine-labs/AzureGoat
+- https://github.com/ine-labs/AzureGoat
 
-### https://github.com/kmcquade/awesome-azure-security
+- https://github.com/kmcquade/awesome-azure-security
 
-### https://github.com/nccgroup/azucar
+- https://github.com/nccgroup/azucar
 
