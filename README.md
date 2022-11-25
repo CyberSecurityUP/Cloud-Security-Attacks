@@ -2,6 +2,9 @@
 
 ## AWS
 
+### Complete list of attacks on Amazon S3 (open-source)
+- https://controlcatalog.trustoncloud.com/dashboard/aws/s3#MITRE%20ATT&CK%C2%AE
+
 ### Privilege Escalation to SYSTEM in AWS VPN Client
 
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
